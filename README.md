@@ -29,7 +29,7 @@ This project performs web scraping of a book page, extracting information about 
 2. Run the scraping script:
 
     ```bash
-    python scripts/scrape.py
+    python3 -m scripts.scrape
     ```
 
 ## Configuration
